@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/*   Navigation Section  */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -45,11 +46,17 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
+/*   Ends Navigation Section  */
 
+
+
+/*   Styles All Paragraph Elements  */
 p {
     font-size: 16px;
 }
 
+
+/*     */
 .hero {
     height: 800px;
     width: 100%;
