@@ -120,25 +120,33 @@ p {
 
 .search-engine-optimization h2 {
     margin-bottom: 20px;
-    font-size: 36px;
+    font-size: 35px;
 }
 
 .online-reputation-management h2 {
     margin-bottom: 20px;
-    font-size: 36px;
+    font-size: 35px;
 }
 
 .social-media-marketing h2 {
     margin-bottom: 20px;
-    font-size: 36px;
+    font-size: 35px;
 }
 
+.content p{
+    font-size: 23px;
+
+}
 
 /* Side Bar Section  */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
+}
+
+.benefits p {
+    font-size: 20px;
 }
 
 .benefits {
@@ -163,7 +171,6 @@ p {
 }
 
 .benefit-cost {
-    margin-bottom: 32px;
     color: #ffffff;
 }
 
@@ -200,7 +207,7 @@ p {
     max-width: 150px;
 }
 
-/*   */
+/*  Footer Section */
 .footer {
     padding: 30px;
     clear: both;
